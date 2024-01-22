@@ -1,5 +1,5 @@
 <template>
     <v-app>
-        <NuxtLayout />
+        Error Occurred
     </v-app>
 </template>
