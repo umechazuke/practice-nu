@@ -5,7 +5,7 @@
         </v-navigation-drawer>
 
         <v-app-bar>
-            <v-app-bar-nav-icon @click="drawer = !drawer"><v-icon :icon="mdi-home"></v-icon></v-app-bar-nav-icon>
+            <v-app-bar-nav-icon @click="drawer = !drawer"><v-icon>mdi-home</v-icon></v-app-bar-nav-icon>
 
             <v-app-bar-title>Application</v-app-bar-title>
         </v-app-bar>
