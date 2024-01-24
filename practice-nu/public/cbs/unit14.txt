@@ -1,26 +1,26 @@
-Norah O'Donnell:"Japan is facing one of the largest population collapses in modern history. By the year 2060, Japan's population is expected to drop by a third, to about 80 million people. The country is trying to tackle the crisis by introducing lifelike robots to help with daily life. A new CBS News Prime Time series... series, CBSN: On Assignment looks at the humanoids. Adam Yamaguchi traveled to the University of Osaka. He learns why Japan's culture is uniquely suited to accept the machines."
-Adam Yamaguchi:"Wow! I can see her breathing. Her shoulders are going in and out. Do you ever find yourself working in here and you freak out, because... you turn away, you look away?"
-Assistant:"Never."
-Yamaguchi:"You, you don't get startled?"
-Assistant:"Not anymore"
-Yamaguchi:"The goal here is to make the robots as realistic as possible, to test how humans react and respond to humanoids. She... feels very... realistic. Is my response typical?"
-Assistant:"No. Actually, people won't touch it. People will ask for permission before [they] touch her."
-Yamaguchi:"My parents didn't teach me any manners. That's the problem, that's all."
-Yamaguchi:"Hi."
-Dr. Ishiguro:"Hi."
-Yamaguchi:"I'm Adam Yamaguchi. Nice to see you. These robots are the creation of Dr. Hiroshi Ishiguro, known as \"the godfather of humanoids.\" Oh, God! How many robots do you have in here? And one of his famous creations ... is himself... in humanoid form."
-Dr. Ishiguro:"People think, you know, my motivation is... is to build a robot. But it is not true. My motivation is to understand what human is by developing humanoid robots. In 50 years, the Japanese population [is] goin to be half... half of the current population. But still, of course, you know, that we wanna keep the same level of quality of life. So, how can we do that? Answer is to develop robot [sic] that can support our daily life."
-O'Donnell:"Adam Yamaguchi is with us now. Adam, good morning."
-Yamaguchi:"Morning."
-O'Donnell:"So, how are the Japanese looking to integrate these robots?"
-Yamaguchi:"In every day. I mean, in simple terms, what they envision is essentially Westworld. They wanna find a society, or create a society which..."
-Gayle King:"Westworld, that show on HBO."
-Yamaguchi:"On HBO"
-King:"Uhuh."
-Yamaguchi:"They wanna create a society in which robots, humanoids and humans live and coexist side by side. And, and the lines between those two are, are blurred. So you'll, you'll see, you already see them in restaurants, in shopping malls. You'll start to see them working as, as new anchors, as teachers."
-King:"Stop talking, Adam. Stop talking. (laughing) It was a little creepy, because they were so lifelike to me. The blinking is what got me and turning of the head. What was it like for you, who touched them without asking, as he pointed out."
-Yamaguchi:"I would say the only difference between the, the robots and, and a reallife human was, was that her skin was much colder. That was the only thing. But, you know, when I sat down and interviewed Erica, the robot, momentarily I would forget that she was not in fact uh... human. She looks at you. She blinks. She nods. She acknowledges that you are there and, and you forget. And, and that's the whole idea. The roboticist that we talked to had said, the moment you start to forget that this is not in fact a human, is when we've succeeded."
-Charlie Rose:"And what's happening in Japn is what happened here and everywhere else..."
-Yamaguchi:"Absolutely."
-Rose:"... around the world. Thank you, Adam. Looks like a great piece."
-O'Donnell:"Yeah, thank you."
+Norah O'Donnell=Japan is facing one of the largest population collapses in modern history. By the year 2060, Japan's population is expected to drop by a third, to about 80 million people. The country is trying to tackle the crisis by introducing lifelike robots to help with daily life. A new CBS News Prime Time series... series, CBSN: On Assignment looks at the humanoids. Adam Yamaguchi traveled to the University of Osaka. He learns why Japan's culture is uniquely suited to accept the machines.
+Adam Yamaguchi=Wow! I can see her breathing. Her shoulders are going in and out. Do you ever find yourself working in here and you freak out, because... you turn away, you look away?
+Assistant=Never.
+Yamaguchi=You, you don't get startled?
+Assistant=Not anymore
+Yamaguchi=The goal here is to make the robots as realistic as possible, to test how humans react and respond to humanoids. She... feels very... realistic. Is my response typical?
+Assistant=No. Actually, people won't touch it. People will ask for permission before [they] touch her.
+Yamaguchi=My parents didn't teach me any manners. That's the problem, that's all.
+Yamaguchi=Hi.
+Dr. Ishiguro=Hi.
+Yamaguchi=I'm Adam Yamaguchi. Nice to see you. These robots are the creation of Dr. Hiroshi Ishiguro, known as \"the godfather of humanoids.\" Oh, God! How many robots do you have in here? And one of his famous creations ... is himself... in humanoid form.
+Dr. Ishiguro=People think, you know, my motivation is... is to build a robot. But it is not true. My motivation is to understand what human is by developing humanoid robots. In 50 years, the Japanese population [is] goin to be half... half of the current population. But still, of course, you know, that we wanna keep the same level of quality of life. So, how can we do that? Answer is to develop robot [sic] that can support our daily life.
+O'Donnell=Adam Yamaguchi is with us now. Adam, good morning.
+Yamaguchi=Morning.
+O'Donnell=So, how are the Japanese looking to integrate these robots?
+Yamaguchi=In every day. I mean, in simple terms, what they envision is essentially Westworld. They wanna find a society, or create a society which...
+Gayle King=Westworld, that show on HBO.
+Yamaguchi=On HBO
+King=Uhuh.
+Yamaguchi=They wanna create a society in which robots, humanoids and humans live and coexist side by side. And, and the lines between those two are, are blurred. So you'll, you'll see, you already see them in restaurants, in shopping malls. You'll start to see them working as, as new anchors, as teachers.
+King=Stop talking, Adam. Stop talking. (laughing) It was a little creepy, because they were so lifelike to me. The blinking is what got me and turning of the head. What was it like for you, who touched them without asking, as he pointed out.
+Yamaguchi=I would say the only difference between the, the robots and, and a reallife human was, was that her skin was much colder. That was the only thing. But, you know, when I sat down and interviewed Erica, the robot, momentarily I would forget that she was not in fact uh... human. She looks at you. She blinks. She nods. She acknowledges that you are there and, and you forget. And, and that's the whole idea. The roboticist that we talked to had said, the moment you start to forget that this is not in fact a human, is when we've succeeded.
+Charlie Rose=And what's happening in Japn is what happened here and everywhere else...
+Yamaguch=Absolutely.
+Rose=... around the world. Thank you, Adam. Looks like a great piece.
+O'Donnell=Yeah, thank you.
