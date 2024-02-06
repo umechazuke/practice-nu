@@ -1,7 +1,5 @@
 <template>
     <v-app>
-        <v-col>
-            
-        </v-col>
+        
     </v-app>
 </template>
